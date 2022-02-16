@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: a1a94884-c6e7-1999-7120-f34fea2aa375
 ---
@@ -33,20 +35,6 @@ HASS-A ![](/images/educator/icon-question-hass-a.png)
 ### Offered
 
 Offered every other fall semester.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![View from the back of the classroom toward the screen and two pianos in front.]({{< resource_file 02d0dabe-fa15-2b95-771f-0b58fc53ebae >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Music classroom equipped with modern tablet armchairs, two pianos, CD/DVD player, cassette deck, turntable, plasma screen, laptop connections, and a wireless network.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
