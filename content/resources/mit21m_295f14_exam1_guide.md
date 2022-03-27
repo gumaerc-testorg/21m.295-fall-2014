@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 0083b1a0-9f76-a18a-6e1b-a60cd2ca1cfd
 resourcetype: Document
 title: Exam 1 Guide
 uid: 03ea8150-4d6f-a320-3f32-6a9080a3e66c

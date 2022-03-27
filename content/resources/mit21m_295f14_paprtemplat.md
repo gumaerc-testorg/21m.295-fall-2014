@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f4f7a55b-4f66-c7b5-3e5c-1ef0ca65dcea
 resourcetype: Document
 title: Paper Template and Citation Format Examples
 uid: 4bae68ca-b5d1-2785-c3bd-e33899dd5529
