@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides detailed descriptions of the assignments for the
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -71,4 +73,4 @@ Research help from the Lewis Music Library: [Pop and rock sources](http://libgui
 
 Additional resources can be found at your local public or university library. Ask a reference librarian for assistance.
 
-[Paper Template and Citation Format Examples (PDF)]({{< baseurl >}}/resources/mit21m_295f14_paprtemplat)
+{{% resource_link 4bae68ca-b5d1-2785-c3bd-e33899dd5529 "Paper Template and Citation Format Examples (PDF)" %}}
