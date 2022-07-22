@@ -5,6 +5,7 @@ file: /courses/21m-295-american-popular-music-fall-2014/4bae68cab5d12785c3bde338
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Paper Template and Citation Format Examples
 uid: 4bae68ca-b5d1-2785-c3bd-e33899dd5529
 ---
 Guidelines on formatting written assignments and citations.
-
