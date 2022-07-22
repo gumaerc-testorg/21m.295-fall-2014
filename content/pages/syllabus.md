@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: This section includes prerequisites, an overview of the course, course
+  requirements, the grading scheme, and a calendar that lists topics by week with
+  key dates.    This syllabus section provides the course description and information
+  on meeting times, prerequisites, assignments, exams, participation, grading, and
+  a course overview by week including key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ed2e0eeb-58ce-ca43-6e63-5b1755fe3c95
 ---
@@ -26,7 +33,7 @@ Assignments
 
 ### Listening and Reading
 
-Listening and reading assignments are listed in the [Reading and Listening]({{< baseurl >}}/pages/reading-and-listening) section.
+Listening and reading assignments are listed in the {{% resource_link 3492dd60-b705-4081-90bd-0ff4472c4b44 "Reading and Listening" %}} section.
 
 The text for this class is:  
 Starr, Larry, and Christopher Waterman. _American Popular Music: From Minstrelsy to MP3_. 4th ed. Oxford University Press, 2014. ISBN: 9780199859115.
@@ -37,11 +44,11 @@ When preparing each assignment, I find starting with the music a more rewarding 
 
 ### Written
 
-You will write three types of papers for this class: A short research essay, a final project paper, and listening outlines. See the [Assignments]({{< baseurl >}}/pages/assignments) section for format guidelines and assignment details.
+You will write three types of papers for this class: A short research essay, a final project paper, and listening outlines. See the {{% resource_link f4f7a55b-4f66-c7b5-3e5c-1ef0ca65dcea "Assignments" %}} section for format guidelines and assignment details.
 
 *   Research essay (4–6 pages) explores a topic in pop music before 1945. See page 6 for more details and a list of potential topics.
 *   Listening outlines (1–2 pages). You will create two listening outlines to be shared with the rest of the class and to be part of a short, informal presentation.
-*   The final project consists of two components. One is a written paper of 6–8 pages and the other is a more formal presentation on the ancestry of a work released within the last five years. In conjunction with this presentation, you will create a one-page handout. See the detailed [assignment description]({{< baseurl >}}/pages/assignments#Research_essay) for more details.
+*   The final project consists of two components. One is a written paper of 6–8 pages and the other is a more formal presentation on the ancestry of a work released within the last five years. In conjunction with this presentation, you will create a one-page handout. See the detailed {{% resource_link f4f7a55b-4f66-c7b5-3e5c-1ef0ca65dcea "assignment description" "#Research_essay" %}} for more details.
 
 Exams
 -----
