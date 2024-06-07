@@ -2,6 +2,7 @@
 content_type: resource
 description: Photo of the classroom used for the course.
 file: /courses/21m-295-american-popular-music-fall-2014/02d0dabefa152b95771f0b58fc53ebae_21M-295_classroom-1.jpg
+file_size: 54964
 file_type: image/jpeg
 image_metadata:
   caption: ''
