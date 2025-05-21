@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image showing the approximate number of students enrolled in the course.
-file: /ol-ocw-studio-app/courses/21m-295-american-popular-music-fall-2014/bf1666aaff27e4dd601162ed1f8566e7_21M-295_stat-students.png
+file: /courses/21m-295-american-popular-music-fall-2014/bf1666aaff27e4dd601162ed1f8566e7_21M-295_stat-students.png
 file_size: 2981
 file_type: image/png
 image_metadata:
