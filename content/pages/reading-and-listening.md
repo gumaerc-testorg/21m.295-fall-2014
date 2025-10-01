@@ -52,7 +52,7 @@ Rodríguez, Gerardo Matos. "La Cumparsita."
 Mississippi John Hurt. "Stagger Lee." 1928 / 1965
 
 *   From: _The Story of the Blues Volume 1_. Hallmark, 2010. Track 2.
-*   "Stackolee." From: _Highway 61: Ultimate Blues Classics_. Great American Music Company, 2012. Track 14. \[Listen on [YouTube](https://www.youtube.com/watch?v=Qdsgs_20UKA)\]
+*   "Stackolee." From: _Highway 61: Ultimate Blues Classics_. Great American Music Company, 2012. Track 14. \[Listen on {{% resource_link "4f6b9c4d-aae1-45fd-8189-e873918687d1" "YouTube" %}}\]
 
 The Grateful Dead. "Stagger Lee." From: _Shakedown Street_. Arista, 1978. Grateful Dead / Rhino, 2006.
 
@@ -172,7 +172,7 @@ Machito. "Nague." From: _Chacharicha_. Werner Last's Favourites Latin, 2008. Tra
 
 ### Additional Reading
 
-Harker, Brian. "[Louis Armstrong, Eccentric Dance, and the Evolution of Jazz on the Eve of Swing](http://www.jstor.org/stable/10.1525/jams.2008.61.1.67)." _Journal of the American Musicological Society_ 61, no. 1 (2008): 67–121.
+Harker, Brian. "{{% resource_link "97fd3169-5526-4de6-8bff-c24e9aa5a43d" "Louis Armstrong, Eccentric Dance, and the Evolution of Jazz on the Eve of Swing" %}}." _Journal of the American Musicological Society_ 61, no. 1 (2008): 67–121.
 
 
 {{< tdclose >}}
@@ -321,15 +321,15 @@ Dylan, Bob. "All Along the Watchtower." From: _John Wesley Harding_. Columbia, 1
 
 The Jimi Hendrix Experience. "All Along the Watchtower." From: _Electric Ladyland_. Legacy Recordings, 2010.
 
-Cooke, Sam. "You Send Me." From: _Love and Let Love_. Jazz2jazz, 2012. Track 2. \[Listen on [YouTube](http://www.youtube.com/watch?v=pX6QlnlMqjE)\]
+Cooke, Sam. "You Send Me." From: _Love and Let Love_. Jazz2jazz, 2012. Track 2. \[Listen on {{% resource_link "9d3ba19d-20cf-4940-8287-e8f58fbd3f0b" "YouTube" %}}\]
 
-———. "A Change is Gonna Come." From: _Ain't That Good News_. ABKCO, 2009. Track 7. \[Listen on [YouTube](http://www.youtube.com/watch?v=gbO2_077ixs)\]
+———. "A Change is Gonna Come." From: _Ain't That Good News_. ABKCO, 2009. Track 7. \[Listen on {{% resource_link "dbf6f804-37f2-4a73-8786-afdb01723077" "YouTube" %}}\]
 
-Cream. "Crossroads." From: _Wheels of Fire_. Universal Motown Records Group, 1998. \[Listen on [YouTube](http://www.youtube.com/watch?v=PE9HvSdcaL4)\]
+Cream. "Crossroads." From: _Wheels of Fire_. Universal Motown Records Group, 1998. \[Listen on {{% resource_link "1b50fa5d-0362-4b1e-a081-80c9e4f6a310" "YouTube" %}}\]
 
 Additional Reading
 
-Zak, Albin J., III. "[Bob Dylan and Jimi Hendrix: Juxtaposition and Transformation "All along the Watchtower"](http://www.jstor.org/stable/10.1525/jams.2004.57.3.599)." _Journal of the American Musicological Society_ 57, no. 3 (2004): 599–644.
+Zak, Albin J., III. "{{% resource_link "80a4b875-6438-47ea-aa76-835ebcd35209" "Bob Dylan and Jimi Hendrix: Juxtaposition and Transformation \"All along the Watchtower\"" %}}." _Journal of the American Musicological Society_ 57, no. 3 (2004): 599–644.
 
 
 {{< tdclose >}}
@@ -369,9 +369,9 @@ King, Carole. "It's Too Late." From: _Tapestry_. Ode / Epic / Legacy, 2012. Trac
 
 Summer, Donna. "Love to Love You Baby." From: _Love To Love You Baby_. Island Mercury, 2007. Track 1.
 
-Chic. "Good Times." From: _Risque_. Atlantic Records, 2008. \[Listen on [YouTube](http://www.youtube.com/watch?v=eKl6EZShaaw)\]
+Chic. "Good Times." From: _Risque_. Atlantic Records, 2008. \[Listen on {{% resource_link "94ead6c0-aa83-4b44-8fd8-eda5cde261c6" "YouTube" %}}\]
 
-White, Barry. "Love Theme." From: _Masters Of The Last Century: Best of Barry White_. Masters Of The Last Century, 2012. \[Listen on [YouTube](http://www.youtube.com/watch?v=8YS7sWCG_ZE)\]
+White, Barry. "Love Theme." From: _Masters Of The Last Century: Best of Barry White_. Masters Of The Last Century, 2012. \[Listen on {{% resource_link "54776afe-e24c-4d19-89f6-7c9833a16a36" "YouTube" %}}\]
 
 
 {{< tdclose >}}
@@ -438,9 +438,9 @@ Queen Latifah. "U.N.I.T.Y." From: _Black Reign_. Motown, 1993. Track 12.
 
 Madonna. "Like a Virgin." From: _Like a Virgin_. Warner Bros., 1984. Track 3.
 
-Gabriel, Peter. "Sledgehammer." From: _Shaking The Tree - 16 Golden Greats_. Real World Productions, 2014. \[Listen on [YouTube](https://www.youtube.com/watch?v=N1tTN-b5KHg)\]
+Gabriel, Peter. "Sledgehammer." From: _Shaking The Tree - 16 Golden Greats_. Real World Productions, 2014. \[Listen on {{% resource_link "cfada8d8-c9b2-4b31-8842-7b969f5be14a" "YouTube" %}}\]
 
-Eurythmics. "Sweet Dreams (Are Made of This)." From: _Sweet Dreams (Are Made of This)_. RCA Records Label, 2005. Track 14. \[Listen on [YouTube](https://www.youtube.com/watch?v=qeMFqkcPYcg)\]
+Eurythmics. "Sweet Dreams (Are Made of This)." From: _Sweet Dreams (Are Made of This)_. RCA Records Label, 2005. Track 14. \[Listen on {{% resource_link "7e3d7582-d07d-45c3-a8c8-9445a51e7091" "YouTube" %}}\]
 
 Van Halen. "Jump." From: _1984_. Warner Bros., 1984. Track 2.
 
@@ -448,7 +448,7 @@ Turner, Tina. "What's Love Got to Do With It?" From: _Private Dancer_. Parlophon
 
 Prince. "When Doves Cry." From: _Purple Rain_. Rhino / Warner Bros., 1990. Tarck 6.
 
-Rogers, Kenny. "Lady." From: _Daytime Friends - The Very Best Of Kenny Rogers_. Capitol Nashville, 2008. \[Listen on [YouTube](http://www.youtube.com/watch?v=3of2F1QXtKo)\]
+Rogers, Kenny. "Lady." From: _Daytime Friends - The Very Best Of Kenny Rogers_. Capitol Nashville, 2008. \[Listen on {{% resource_link "c33a2d2b-f838-4e21-8614-b494e77e433e" "YouTube" %}}\]
 
 
 {{< tdclose >}}
@@ -470,13 +470,13 @@ Rogers, Kenny. "Lady." From: _Daytime Friends - The Very Best Of Kenny Rogers_. 
 
 ### Listening
 
-Dead Kennedys. "Holiday in Cambodia." From: _Fresh Fruit for Rotting Vegetables_. Cherry Red Records, 1980. Track 13. \[Listen on [YouTube](http://www.youtube.com/watch?v=YbEm_pz3T20&feature=fvst)\]
+Dead Kennedys. "Holiday in Cambodia." From: _Fresh Fruit for Rotting Vegetables_. Cherry Red Records, 1980. Track 13. \[Listen on {{% resource_link "434fe9ca-0cbb-4e38-9290-3547f27063f7" "YouTube" %}}\]
 
 Snoop Doggy Dogg. "Who Am I (What's My Name)?" From: _Doggystyle_. Death Row Records, 2009.
 
-k. d. lang and the Reclines. "Nowhere to Stand." From: _Absolute Torch And Twang_. Sire / Warner Bros., 1989. Track 12. \[Listen on [YouTube](http://www.youtube.com/watch?v=4MQPP-WO-vo)\]
+k. d. lang and the Reclines. "Nowhere to Stand." From: _Absolute Torch And Twang_. Sire / Warner Bros., 1989. Track 12. \[Listen on {{% resource_link "729de902-6ee4-478f-86f7-7c4610133483" "YouTube" %}}\]
 
-Radiohead. "Bodysnatchers." From: _In Rainbows_. Warner / Chappell Music, 2007. Track 2. \[Listen on [YouTube](http://www.youtube.com/watch?v=YVDSdDoD4Sg)\]
+Radiohead. "Bodysnatchers." From: _In Rainbows_. Warner / Chappell Music, 2007. Track 2. \[Listen on {{% resource_link "de500a2c-e43d-4d52-bca8-26eb2e3d5b13" "YouTube" %}}\]
 
 Public Enemy. "Night of the Living Baseheads." From: _It Takes a Nation of Millions to Hold Us Back_. Def Jam / RAL, 1995. Track 11.
 
