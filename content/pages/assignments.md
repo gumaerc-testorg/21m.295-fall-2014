@@ -67,9 +67,9 @@ Oral presentations will be held between Session 24 and 27.
 
 Where to begin your research:
 
-Research help from the Lewis Music Library: {{% resource_link "1b454b69-8d01-47fa-b1dc-2c9b3f36046a" "Music sources" %}}
+Research help from the Lewis Music Library: [Music sources](http://libguides.mit.edu/music)
 
-Research help from the Lewis Music Library: {{% resource_link "b97dda0b-43d9-45f0-b6e8-bd0b85771999" "Pop and rock sources" %}}
+Research help from the Lewis Music Library: [Pop and rock sources](http://libguides.mit.edu/pop-and-rock)
 
 Additional resources can be found at your local public or university library. Ask a reference librarian for assistance.
 
